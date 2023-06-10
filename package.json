@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "d3-timeseries": "^1.0.1",
-    "gatsby": "^2.21.0",
+    "gatsby": "^4.25.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
